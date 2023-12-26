@@ -7,7 +7,7 @@
 <hr>
 <img src="captures/3.PNG">
 <hr>
-<h2>fait une test pour  les opérations du web service avec un SoapUI</h2>
+<h4>fait une test pour  les opérations du web service avec un SoapUI</h4>
 <li> l'operation conversionEuroToDH</li>
 
 <img src="captures/4.PNG">
