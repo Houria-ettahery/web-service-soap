@@ -19,7 +19,7 @@
 <img src="captures/6.PNG">
 
 <hr>
-
+<h4>Créer un Client SOAP Java</h4>
 <img src="captures/7.PNG">
 <hr>
 <img src="captures/8.PNG">
